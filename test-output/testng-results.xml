@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="134798" started-at="2022-08-03T13:44:37Z" finished-at="2022-08-03T13:46:52Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="134798" started-at="2022-08-03T13:44:37Z" finished-at="2022-08-03T13:46:52Z">
+      <class name="com.api.rest.api.oauth2.TestGetFolderList">
+        <test-method status="PASS" signature="name()[pri:0, instance:com.api.rest.api.oauth2.TestGetFolderList@36902638]" name="name" is-config="true" duration-ms="133416" started-at="2022-08-03T20:44:37Z" finished-at="2022-08-03T20:46:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- name -->
+        <test-method status="PASS" signature="testGetFolderList()[pri:0, instance:com.api.rest.api.oauth2.TestGetFolderList@36902638]" name="testGetFolderList" duration-ms="1365" started-at="2022-08-03T20:46:51Z" finished-at="2022-08-03T20:46:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetFolderList -->
+      </class> <!-- com.api.rest.api.oauth2.TestGetFolderList -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
